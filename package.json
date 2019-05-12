@@ -1,22 +1,22 @@
 {
-  "name": "natourapp",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "compile:sass": "node-sass sass/main.scss style.css -w"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/theresasogunle/natourapp.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/theresasogunle/natourapp/issues"
-  },
-  "homepage": "https://github.com/theresasogunle/natourapp#readme",
-  "dependencies": {
-    "node-sass": "^4.12.0"
-  }
+    "name": "natourapp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "compile:sass": "node-sass sass/main.scss styles/style.css -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/theresasogunle/natourapp.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/theresasogunle/natourapp/issues"
+    },
+    "homepage": "https://github.com/theresasogunle/natourapp#readme",
+    "dependencies": {
+        "node-sass": "^4.12.0"
+    }
 }
